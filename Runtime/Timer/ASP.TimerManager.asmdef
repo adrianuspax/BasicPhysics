@@ -1,0 +1,16 @@
+{
+    "name": "ASP.TimerManager",
+    "rootNamespace": "ASP.TimerManager",
+    "references": [
+        "GUID:e371779536dbe7040837be57c103bea3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

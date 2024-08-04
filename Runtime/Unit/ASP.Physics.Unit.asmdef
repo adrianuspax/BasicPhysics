@@ -1,0 +1,14 @@
+{
+    "name": "ASP.Physics.Unit",
+    "rootNamespace": "ASP.Physics.Unit",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
