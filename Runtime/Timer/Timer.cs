@@ -31,6 +31,13 @@ namespace ASP.TimerManager
             this.countType = countType;
         }
 
+        public Timer(MonoBehaviour monoBehaviour)
+        {
+            seconds = new(0f);
+            _monoBehaviour = monoBehaviour;
+            countType = CountType.countup;
+        }
+
         public void Start()
         {
             if (countType == CountType.countdown)
